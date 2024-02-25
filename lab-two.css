@@ -1,0 +1,64 @@
+header {
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: #000000;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.About,
+.Services,
+.Contact {
+    padding-right: 15px;
+}
+
+.ourservices {
+    margin-bottom: 0;
+}
+
+body{
+    text-align:center
+}
+
+h3,
+p {
+    margin: 0;
+}
+
+img{
+    width: 600px;
+    height: 400px;
+}
+
+.services{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+}
+
+.WebDevelopment{
+    border: 1px solid #000000;
+    padding: 15px;
+}
+
+.GraphicDesign{
+    border-right: 1px solid #000000;
+    border-bottom: 1px solid #000000;
+    border-top: 1px solid #000000;
+    padding: 15px;
+}
+
+main{
+    padding-bottom: 30px;
+}
+
+footer{
+    background-color: #000000;
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+}
+
